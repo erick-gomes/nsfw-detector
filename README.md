@@ -12,7 +12,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/erick-gomes/nsfw-analyze
+$ git clone https://github.com/erick-gomes/nsfw-detector
 
 
 # Instale o nodejs
@@ -20,7 +20,7 @@ $ apt install nodejs
 
 
 # Instale as dependências
-$ cd nsfw-analyze && npm install
+$ cd nsfw-detector && npm install
 
 
 # Execute o script
@@ -34,7 +34,7 @@ $ node index.js
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/erick-gomes/nsfw-analyze
+$ git clone https://github.com/erick-gomes/nsfw-detector
 
 
 # Instale o nodejs
@@ -42,7 +42,7 @@ $ choco install nodejs
 
 
 # Instale as dependências
-$ cd nsfw-analyze && npm install
+$ cd nsfw-detector && npm install
 
 
 # Execute o script
