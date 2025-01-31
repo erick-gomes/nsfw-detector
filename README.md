@@ -1,4 +1,4 @@
-<h1 align="center">nsfw-analyze</h1>
+<h1 align="center">Nsfw Detector</h1>
 <p align="center">Um bot para whatsapp web que analiza conteúdo nsfw em imagens ou vídeos</p>
 <div align="center">
     <h4>Dependências: </h4>
