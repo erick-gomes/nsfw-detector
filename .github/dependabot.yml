@@ -4,4 +4,4 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-    version-strategy: "increase"
+    versioning-strategy: "increase"
